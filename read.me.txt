@@ -1,0 +1,4 @@
+While writing this project, 
+I used playsound, datetime, 
+speech_recognition, webbrowser, 
+time, gtts, random libraries.
